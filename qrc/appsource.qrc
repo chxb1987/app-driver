@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_check_box_1.png</file>
+        <file>icon_check_box_2.png</file>
+        <file>icon_check_box_3.png</file>
+        <file>icon_check_box_4.png</file>
+        <file>icon_circle_1.png</file>
+        <file>icon_circle_2.png</file>
+        <file>icon_circle_3.png</file>
+        <file>icon_circle_4.png</file>
+        <file>icon_dir.png</file>
+        <file>icon_down_arrow.png</file>
+        <file>icon_ext.png</file>
+        <file>icon_file.png</file>
+        <file>icon_link.ico</file>
+        <file>icon_link.png</file>
+        <file>icon_max.png</file>
+        <file>icon_min.png</file>
+        <file>icon_up_arrow.png</file>
+        <file>logo_aip.png</file>
+        <file>qss_black.css</file>
+        <file>qss_light.css</file>
+        <file>qt_zh_CN.qm</file>
+        <file>qtbase_zh_CN.qm</file>
+    </qresource>
+</RCC>
